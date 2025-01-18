@@ -1,0 +1,28 @@
+{
+  "name": "planka-webhook-types",
+  "version": "1.0.0",
+  "description": "TypeScript type definitions for Planka webhook payloads",
+  "keywords": [
+    "planka",
+    "typescript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/FluxCapacitor2/planka-webhook-types",
+  "bugs": {
+    "url": "https://github.com/FluxCapacitor2/planka-webhook-types/issues"
+  },
+  "author": "Brendan Swanson (https://www.bswanson.dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FluxCapacitor2/planka-webhook-types.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}
